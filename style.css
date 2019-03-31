@@ -1,0 +1,222 @@
+.menu {
+    width: 1250px;
+    height: 89px;
+    background: white;
+    position: relative;
+
+}
+
+.logo {
+    background-image: url(img/logo.png);
+    background-repeat: no-repeat;
+    width: 178px;
+    height: 44px;
+    display: block;
+    margin-left: 141px;
+    margin-top: 24px;
+}
+
+#nav {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    display: block;
+    margin-left: 718px;
+    margin-top: 10px;
+    position: relative;
+    bottom: 62px;
+
+
+}
+
+#nav li {
+
+    display: inline-block;
+    margin-left: 40px;
+    width: 39px;
+    height: 16px;
+    color: #6c6c6c;
+    font-family: "Segoe WPN";
+    font-size: 20px;
+    letter-spacing: 0.25px;
+
+
+}
+
+#nav li + li {
+    float: left;
+    margin-right: 33px;
+    
+}
+
+
+
+
+ li a {
+    color: #6c6c6c;
+    text-decoration: none;
+
+
+}
+
+li a:hover {
+    
+    border-bottom: 3px solid #5094f2;
+    
+    outline: 0;
+
+
+
+}
+.bg {
+    background-image: url(img/dsfsdfsdfds.png);
+    position: absolute;
+    width: 1250px;
+    height: 460px;
+    margin-top: -51px;
+}
+.iphone { 
+    position: relative;
+    margin-left: 181px;
+    margin-top: -26px;
+    
+}
+.text {
+    width: 390px;
+height: 100px;
+color: white;
+font-family: "Segoe WP";
+font-size: 20px;
+font-weight: 200;
+line-height: 44.42px;
+/* Text style for "L, orem Ip" */
+font-size: 42px;
+    position: relative;
+    margin-left: 626px;
+    margin-top: -70px;
+    
+}
+.h2{
+    /* Style for "Lorem Ipsu" */
+    display: block;
+width: 391px;
+height: 128px;
+color: white;
+font-family: "Segoe WP";
+font-size: 26px;
+font-weight: 300;
+line-height: 44.42px;
+/* Text style for "L, orem Ip" */
+font-size: 42px;
+    position: relative;
+    margin-left: 626px;
+    margin-top: 123px;
+}
+.btn{ 
+    border: solid #5094f2;
+    background-color: #5094f2;
+color: #ffffff;
+text-align: center;
+   
+    padding: 12px 32px;
+    margin-left: 638px;
+    background-image: url(img/Shape_2.png); 
+    background-repeat: no-repeat;
+    background-position: 10px 12px;
+} 
+.main{
+    position: absolute;
+}
+.text_btn{
+    display: block;
+    font-size: 20px;
+    margin-left: 10px;
+    
+}
+.goods1{ 
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 77px
+}
+.goods2{
+    
+    position: absolute;
+    margin-top: 50px;
+    margin-left: 490px;
+}
+.goods3{
+    position: relative;
+    margin-left: 850px;
+  padding-top: 50px
+}
+.basket{
+    position: relative;
+    margin-top: 500px
+    
+}
+.cart{ 
+    position: absolute;
+    width: 371px;
+    height: 279px;
+    margin-left: 150px
+}
+.content{
+    
+    /* Style for "The Shoppi" */
+width: 342px;
+height: 42px;
+color: #6f7173;
+font-family: "Segoe WPN";
+font-size: 42px;
+font-weight: 400;
+line-height: 44.42px;
+    margin-left: 168px;
+}
+.lorem{
+    /* Style for "Some Bulle" */
+width: 247px;
+height: 21px;
+color: #6f7173;
+font-family: "Segoe WPN";
+font-size: 26px;
+font-weight: 400;
+line-height: 44.42px;
+    margin-left: 605px;
+    margin-top: -30px
+}
+p{
+    /* Style for "Lorem Ipsu" */
+width: 453px;
+height: 232px;
+color: #909090;
+font-family: "Segoe WPN";
+font-size: 15px;
+font-weight: 300;
+line-height: 36px;
+    position: absolute;
+    margin-bottom: 60px;
+    margin-left: 606px
+}
+footer{
+    /* Style for "Copyright" */
+width: 251px;
+height: 16px;
+color: #909090;
+font-family: "Segoe WPN";
+font-size: 15px;
+font-weight: 300;
+line-height: 36px;
+    position: absolute;
+    margin-top: 34px;
+    margin-left: 436px;
+    margin-bottom: 44px;
+   
+    
+}
+.razriv{ 
+    position: relative;
+    margin-top: 400px;
+    border-top: 1px solid gray;
+    margin: 0 100;
+    
+}
